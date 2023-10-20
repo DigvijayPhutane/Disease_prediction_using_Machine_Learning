@@ -25,7 +25,7 @@ This project focuses on developing a robust and accurate disease prediction syst
 - Python 3.11
 - Machine learning libraries (e.g., scikit-learn, XGBoost)
 - Jupyter Notebook or Python IDE
-
+- DATA SET - https://www.kaggle.com/datasets/kaushil268/disease-prediction-using-machine-learning?select=Training.csv
 ### Usage
 
 1. Clone the repository to your local machine.
